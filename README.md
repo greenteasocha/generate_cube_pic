@@ -6,4 +6,5 @@
 - VisualCube
   - http://cube.crider.co.uk/visualcube.php
 ### TODO
-#### 持ち替えを認識できてない?ので対応する
+- OLL53がバグっている
+  - 持ち替え記号に原因？
