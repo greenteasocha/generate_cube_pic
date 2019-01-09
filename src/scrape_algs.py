@@ -40,4 +40,4 @@ for line in a:
         print("Nonetype Object...Passed.")
 
 with open("../data/urls.txt", "w") as f:
-    f.writelines(urls)
+]    f.writelines(urls)
